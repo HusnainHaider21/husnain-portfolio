@@ -10,9 +10,9 @@ const Hero = () => {
         <p className="text-xl text-gray-400 mt-6 max-w-2xl">
           Frontend Developer | React Developer | Building modern and fast websites.
         </p>
-        <button className="mt-8 bg-white text-black px-8 py-3 rounded-full font-semibold hover:bg-gray-200">
+        <a href="#projects" className="mt-8 bg-white text-black px-8 py-3 rounded-full font-semibold hover:bg-gray-300">
           View My Work
-        </button>
+        </a>
       </div>
     </div>
   )
