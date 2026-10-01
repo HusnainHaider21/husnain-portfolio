@@ -3,9 +3,9 @@ import React from 'react'
 const projects = [
   {
     title: "E-Commerce Store",
-    desc: "React aur Tailwind se banayi hui modern shop, cart functionality ke sath.",
+    desc: " Modern E-commerce shop built with React and Tailwind CSS with cart functionality.",
     tech: "React, Tailwind",
-    link: "#"
+    link: "https://mini-daraz-store.vercel.app"
   },
   {
     title: "Weather App",
@@ -13,7 +13,7 @@ const projects = [
     tech: "React, API",
     link: "#"
   },
-  {
+  { 
     title: "Todo App",
     desc: "Daily tasks manage karne ke liye simple aur fast todo app.",
     tech: "React, LocalStorage",
